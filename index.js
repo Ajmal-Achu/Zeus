@@ -1,5 +1,5 @@
 // Script by Pepe
-// 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁  | 𝙳𝙾𝙽'𝚃 𝙲𝙷𝙰𝙽𝙶𝙴 𝙲𝚁𝙴𝙳𝙸𝚃𝚂🙂
+// ᴢᴇᴜs | 𝙳𝙾𝙽'𝚃 𝙲𝙷𝙰𝙽𝙶𝙴 𝙲𝚁𝙴𝙳𝙸𝚃𝚂🙂
 // ©Pepe Bot 
 const {
   WAConnection: _WAConnection,
@@ -135,7 +135,7 @@ autoketik = false;
 prefixStatus = true;
 targetpc = "918590508376"; 
 owner = "918590508376"; 
-fakeyoi = "Zeus"; 
+fakeyoi = "Zeus bY AjMaL AnD AcHu"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
@@ -1828,7 +1828,7 @@ reply(`${mek.quoted.caption}`)
 break
 case 'iggw':
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
-  reply('No instagram link provided currently')
+  reply('https://www.instagram.com/_roshan_p_r')
 break
    
 case 'owner':
