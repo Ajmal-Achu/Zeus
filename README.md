@@ -56,10 +56,10 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 
 ``` 
-git clone https://github.com/pepesir/PEPE-SIR.git
+git clone https://github.com/Ajmal-Achu/Zeus.git
 ```
 ```
-cd PEPE-SIR
+cd Zeus
 ```
 ```
 npm start
@@ -100,10 +100,10 @@ pkg install wget
 pkg install imagemagick -y
 ```
 ```
-git clone https://github.com/pepesir/PEPE-SIR
+git clone https://github.com/Ajmal-Achu/Zeus
 ```
 ```
-cd PEPE-SIR
+cd Zeus
 ```
 ```
 npm install
@@ -113,24 +113,12 @@ npm start
 ```
 scan qr code within 15seconds
 
-## Connect With Me
-My Personal Chat👇
-<p align="center">
- <a href="https://wa.me/+917736622139"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
-</p>
-
-My Whatsapp Group👇
-<p align="center">
- <a href="https://chat.whatsapp.com/ESkhpL7DdlE9AcaUs2b7g1"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
-</p>
-
-* [`My Youtube Channel`](https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA)
 
 ### ⚠ Warning ⚠
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-Pepe Sir or we are not responsible for your account, 
+Zeus or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
@@ -168,6 +156,7 @@ you can contact us
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/ESkhpL7DdlE9AcaUs2b7g1)
 
 # Thanks To
+* [`Ajmal-Achu`](https://github.com/Ajmal-Achu)
 * [`Pepe`](https://github.com/pepesir)
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Xeon`](https://github.com/DGXeon)
