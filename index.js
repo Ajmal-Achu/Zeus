@@ -1828,7 +1828,7 @@ reply(`${mek.quoted.caption}`)
 break
 case 'iggw':
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
-  reply('https://www.instagram.com/_roshan_p_r')
+  reply('No instagram link provided currently')
 break
    
 case 'owner':
