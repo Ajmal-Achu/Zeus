@@ -144,16 +144,6 @@ you can contact us
 <a href="https://github.com/pepesir/PEPE-SIR/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/pepesir/PEPE-SIR?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-<p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pepesir&show_icons=true&theme=dark&locale=en" alt="pepesir" /></p>
-    
-  <div align="center">
-       
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pepesir&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-  </div>
- 
-
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/ESkhpL7DdlE9AcaUs2b7g1)
 
 # Thanks To
 * [`Ajmal-Achu`](https://github.com/Ajmal-Achu)
