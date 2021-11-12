@@ -2505,13 +2505,7 @@ case 'git':
 case 'script':
 		case 'sc':
 		case 'sourcecode':
-		xeon.sendMessage(from, { text: "╭─❒ SCRIPT
-│➩➬𝙱𝙰𝚂𝙴 : *AjMaL AnD AcHu*
-│➩➬𝙴𝚁𝚁𝙾𝚁 𝙲𝙷𝙴𝙲𝙺𝙸𝙽𝙶 : *AjMaL AnD AcHu*
-│
-└──────[ 𝚂𝙲𝚁𝙸𝙿𝚃 ]──────❒
-  │➬➩ : 𝙽𝙾𝚃 𝚁𝙴𝙻𝙴𝙰𝚂𝙴𝙳 𝚈𝙴𝚃
-  └──────────────────❒", matchedText: 'nopee', description: "", title: "What are you doing?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
+		xeon.sendMessage(from, { text: "NO SCRIPT AVILABLE THIS IS A PRIVATE BOT✅ ✅", matchedText: 'nopee', description: "", title: "What are you doing?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
 		break
       //------------------< Sticker Cmd >-------------------
       case "addcmd":
