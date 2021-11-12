@@ -1625,7 +1625,7 @@ ${readmore}
 ╰────────────────  
  
 `
-sendButLocation(from, `${menu}`,`ʙᴏᴛ ʙʏ @${dtod.split("@")[0]}`, {jpegThumbnail:iye}, [{buttonId:`command`,buttonText:{displayText:'LIST MENU'},type:1},{buttonId:`credit`,buttonText:{displayText:'THANKS TO'},type:1},{buttonId:`script`,buttonText:{displayText:'SCRIPT'},type:1}], {contextInfo: { mentionedJid: [ptod,stod]}})
+sendButLocation(from, `${menu}`,`ʙᴏᴛ ʙʏ ᴀᴊᴍᴀʟ ᴀɴᴅ ᴀᴄʜᴜ`, {jpegThumbnail:iye}, [{buttonId:`command`,buttonText:{displayText:'LIST MENU'},type:1},{buttonId:`credit`,buttonText:{displayText:'THANKS TO'},type:1},{buttonId:`script`,buttonText:{displayText:'SCRIPT'},type:1}], {contextInfo: { mentionedJid: [ptod,stod]}})
 
 break
         case 'alive':
@@ -1680,13 +1680,14 @@ sendButLocation(from, `${menu}`,`𝚊𝚗𝚢 𝚍𝚘𝚞𝚋𝚝𝚜 , 𝚌�
 break
 case 'credit':
    dtod = '918590508376'
-   dtod1 = '918590508376'
-   dtod2 = '918590508376'
+   dtod1 = '919744196187'
+   dtod2 = '918590967139'
    dtod3 = ''
    dtod4 ='0'
    var yez = `
-╭───➤ 𝐀𝐃𝐌𝐈𝐍
-│✨ wa.me/${dtod.split('@')[0]}
+╭───➤ 𝗢𝗪𝗡𝗘𝗥𝗦
+│✨ wa.me/${dtod1.split('@')[0]}
+ ✨ wa.me/${dtod2.split('@')[0]}
 ╰───────────────
  © ᴄᴏᴅᴇᴅ ʙʏ ᴀᴊᴍᴀʟ ᴀɴᴅ ᴀᴄʜᴜ
  `
@@ -1828,7 +1829,7 @@ reply(`${mek.quoted.caption}`)
 break
 case 'iggw':
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
-  reply('https://www.instagram.com/_roshan_p_r')
+  reply('ɪɴsᴛᴀɢʀᴀᴍ ʟɪɴᴋ ᴡɪʟʟ ʙᴇ ᴀᴠɪʟᴀʙʟᴇ sᴏᴏɴ')
 break
    
 case 'owner':
@@ -2093,7 +2094,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
  description: `Hi @${sender.split('@')[0]}, Please select the menu here`,
  sections: [
                      {
-                      "title": `ᴘᴇᴘᴇ`,
+                      "title": `Zeus`,
  rows: [
                           {
                               "title": "Script",
@@ -2504,7 +2505,13 @@ case 'git':
 case 'script':
 		case 'sc':
 		case 'sourcecode':
-		xeon.sendMessage(from, { text: "╭─➤ *ᴘᴇᴘᴇ sɪʀ*\n│       ❑  *sᴄʀɪᴘᴛ*\n│❖   ɢɪᴛʜᴜʙ:\n│❖   https://github.com/pepesir/PEPE-SIR\n│❖   ʏᴏᴜᴛᴜʙᴇ:\n│❖   https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA\n│❖   ᴡᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ:\n╰────────────────❋ཻུ۪۪⸙\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n             ᴘᴇᴘᴇ sɪʀ\n\n╭◪ *ᴄᴏᴅᴅᴇᴅ ʙʏ ᴘᴇᴘᴇ*\n╰─────────────────❋ཻུ۪۪⸙", matchedText: 'nopee', description: "", title: "What are you doing?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
+		xeon.sendMessage(from, { text: "╭─❒ SCRIPT
+│➩➬𝙱𝙰𝚂𝙴 : *AjMaL AnD AcHu*
+│➩➬𝙴𝚁𝚁𝙾𝚁 𝙲𝙷𝙴𝙲𝙺𝙸𝙽𝙶 : *AjMaL AnD AcHu*
+│
+└──────[ 𝚂𝙲𝚁𝙸𝙿𝚃 ]──────❒
+  │➬➩ : 𝙽𝙾𝚃 𝚁𝙴𝙻𝙴𝙰𝚂𝙴𝙳 𝚈𝙴𝚃
+  └──────────────────❒", matchedText: 'nopee', description: "", title: "What are you doing?", jpegThumbnail: iye }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
 		break
       //------------------< Sticker Cmd >-------------------
       case "addcmd":
